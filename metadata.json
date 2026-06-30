@@ -1,0 +1,6 @@
+{
+  "name": "iaProcesal",
+  "description": "Plataforma de preparación para la oposición de Tramitación Procesal y Administrativa, enfocada en la detección y resolución de preguntas trampa, análisis de convocatorias y exámenes interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
